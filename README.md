@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Whatever
+Whatever it gets
 
 ## New section
 
@@ -20,4 +20,6 @@ All new!
 
 ## Total new section
 
-Yeah!
+Double yeah!
+
+## Another new section
