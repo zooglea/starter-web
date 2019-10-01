@@ -17,3 +17,7 @@ Whatever
 ## New section
 
 All new!
+
+## Total new section
+
+Yeah!
