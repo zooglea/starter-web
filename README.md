@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work (testing)
 
 ## Introduction
 
-This is an introduction
+This is a short introduction
 
 ## Purpose
 
