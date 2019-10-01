@@ -10,6 +10,10 @@ This is an introduction
 
 Sample website with plenty of files for demos
 
-## Depoyment
+## Deployment
 
 Whatever
+
+## New section
+
+All new!
