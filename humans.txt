@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Jorge 	jorge@whatever.com
+    J 	j@whatever.com
 
 # THANKS
 
