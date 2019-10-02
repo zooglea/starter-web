@@ -30,4 +30,4 @@ Cambios en la master
 
 ## Copyright
 
-Cualquier cosa
+Cualquier cosa. Todos los derechos reservados
