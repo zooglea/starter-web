@@ -23,3 +23,9 @@ All new!
 Double yeah!
 
 ## Another new section
+
+xxxx
+
+## Copyright
+
+Cualquier cosa
