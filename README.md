@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work (testing)
 Una nueva línea para ejemplo de rebasing
+Otra linea añadida en la rama myfeature
 
 ## Introduction
 
